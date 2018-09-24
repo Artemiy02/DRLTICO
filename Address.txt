@@ -1,0 +1,2 @@
+DataRootLabsToken = "0xc8a2614f7b538d1e3b88378e7a69c531ade9a312";
+ICO = "0x7d9c1db6f230621f35020c3dffe79e939dd30150";
